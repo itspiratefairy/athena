@@ -1,0 +1,20 @@
+.active-tab {
+	border-bottom: solid 2px #4CAF50;
+
+}
+
+.main-fab {
+	position:fixed;
+		right:5%;
+		bottom:5%;
+	-webkit-animation-duration: 0.2s;
+	-webkit-animation-delay: 0.5s;
+
+}
+
+.micon {
+
+	position: relative;
+	top:6px;
+	padding:5px;
+}
